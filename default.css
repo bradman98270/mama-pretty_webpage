@@ -1,0 +1,41 @@
+body{
+	padding: 0;
+  height: 100vh; /*add this to fill the screen*/
+  background: red /*set the background color here*/ 
+}
+
+.nav-link{
+
+	font-size: 25px;
+	
+}
+
+header{
+	padding-top: 5px;
+	border: 1px solid gray;
+	font-family: fantasy;
+	text-align: center;
+	}
+
+h1{
+	
+
+
+}
+
+p{
+	font-family: 'Kaushan Script', cursive;
+	font-size: 30px;
+	text-align: center;
+}
+
+.carousel-inner img {
+  margin: auto;
+  padding-bottom: 10px;
+}
+
+
+
+
+
+
