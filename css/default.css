@@ -1,13 +1,11 @@
-body{
+body {
 	padding: 0;
   height: 100vh; /*add this to fill the screen*/
   background: red /*set the background color here*/ 
 }
 
-.nav-link{
-
+.nav-link {
 	font-size: 25px;
-	
 }
 
 header{
@@ -15,15 +13,13 @@ header{
 	border: 1px solid gray;
 	font-family: fantasy;
 	text-align: center;
-	}
+}
 
 h1{
-	
-
 
 }
 
-p{
+p {
 	font-family: 'Kaushan Script', cursive;
 	font-size: 30px;
 	text-align: center;
@@ -33,9 +29,5 @@ p{
   margin: auto;
   padding-bottom: 10px;
 }
-
-
-
-
 
 
