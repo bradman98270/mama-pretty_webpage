@@ -44,14 +44,28 @@
       
     
   </header>
-<br>
-
-  <p>These are the current items for purchase below.</p> 
 
 
-    
-    
+  <p class="description">These are the current items for purchase.</p> 
+
   
+  <div class="row">
+  <div class="col-md-4">
+    <img src="https://cf1.s3.souqcdn.com/item/2016/11/29/11/94/39/21/item_XL_11943921_17815988.jpg" class="img-thumbnail">
+    <div class="caption">
+          <p class="secondsale">Neo Long Champ
+            <button type="button" class="btn btn-primary btn-lg">Buy Now</button></p>
+        </div>
+  </div>
+  <div class="col-md-4">
+    <img src="https://media.karousell.com/media/photos/products/2017/10/21/longchamp_1699_la_plaige_neo_backpack_standard_size_black_1508586314_fef565e1.jpg"              class="img-thumbnail">
+    <div class="caption">
+          <p class="secondsale">Neo Back pack
+          <button type="button" class="btn btn-primary btn-lg">Buy Now</button></p>
+        </div>
+ 
+
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
